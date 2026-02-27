@@ -1,5 +1,7 @@
 # veeship
-Fast, advanced and modern starship config
+Fast, advanced and modern starship config.  
+See the [blog post](https://vipau.dev/posts/veeship/) for screenshots and more details.  
+This config works really well with [zsimple](https://github.com/vipau/zsimple)
 
 ## Installation
 Copy starship.toml to the starship configuration directory, usually `~/.config/`. Done!
