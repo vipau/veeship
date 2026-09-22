@@ -1,5 +1,6 @@
 # veeship
 Fast, advanced and modern starship config.  
+No emoji or powerline symbols, so it works with any font and stays readable everywhere.  
 See the **[blog post](https://vipau.dev/posts/veeship/)** for screenshots and more details.  
 
 <img src="https://vipau.dev/images/prompt-1.png" />
@@ -11,16 +12,14 @@ This config works really well with [zsimple](https://github.com/vipau/zsimple). 
 
 ### Manual install
 1. Install [starship](https://starship.rs/) if it's not installed.  
-2. Hope your terminal is using a Powerline compatible font. If not, change the prompt or install the fonts.  
-3. Copy starship.toml to the starship configuration directory, usually `~/.config/`. Done!
+2. Copy starship.toml to the starship configuration directory, usually `~/.config/`. Done!
 
 ### zsimple
 I wrote zsimple to go together with this theme, making the terminal feel modern but fast.  
 The zsimple installer can also [install veeship alongside it](https://github.com/vipau/zsimple/tree/main?tab=readme-ov-file#install).  
 
 1. Install [starship](https://starship.rs/) if it's not installed.  
-2. Hope your terminal is using a Powerline compatible font. If not, change the prompt or install the fonts.  
-3. Install zsimple+veeship:
+2. Install zsimple+veeship:
 ```bash
 git clone --recursive https://github.com/vipau/zsimple.git
 cd zsimple
